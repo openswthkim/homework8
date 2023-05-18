@@ -41,7 +41,7 @@ int main()
 	char command; // 문자형 변수 선언
 	int key;// 정수형 변수 선언
 	listNode* headnode=NULL;  // listNode의 포인터 headnode 선언 후 초기화
-
+        printf("[----- [Taehyung Kim] [2020039024] -----]");
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                  Doubly Circular Linked List                   \n");
